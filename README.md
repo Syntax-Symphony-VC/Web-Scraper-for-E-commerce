@@ -1,2 +1,92 @@
-# Web-Scraper-for-E-commerce
-A tool to scrape product information from e-commerce sites.
+- @aismail5
+#- @aismail5
+ - @aismail5
+W- @aismail5
+e- @aismail5
+b- @aismail5
+-- @aismail5
+S- @aismail5
+c- @aismail5
+r- @aismail5
+a- @aismail5
+p- @aismail5
+e- @aismail5
+r- @aismail5
+-- @aismail5
+f- @aismail5
+o- @aismail5
+r- @aismail5
+-- @aismail5
+E- @aismail5
+-- @aismail5
+c- @aismail5
+o- @aismail5
+m- @aismail5
+m- @aismail5
+e- @aismail5
+r- @aismail5
+c- @aismail5
+e- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+o- @aismail5
+l- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+ - @aismail5
+s- @aismail5
+c- @aismail5
+r- @aismail5
+a- @aismail5
+p- @aismail5
+e- @aismail5
+ - @aismail5
+p- @aismail5
+r- @aismail5
+o- @aismail5
+d- @aismail5
+u- @aismail5
+c- @aismail5
+t- @aismail5
+ - @aismail5
+i- @aismail5
+n- @aismail5
+f- @aismail5
+o- @aismail5
+r- @aismail5
+m- @aismail5
+a- @aismail5
+t- @aismail5
+i- @aismail5
+o- @aismail5
+n- @aismail5
+ - @aismail5
+f- @aismail5
+r- @aismail5
+o- @aismail5
+m- @aismail5
+ - @aismail5
+e- @aismail5
+-- @aismail5
+c- @aismail5
+o- @aismail5
+m- @aismail5
+m- @aismail5
+e- @aismail5
+r- @aismail5
+c- @aismail5
+e- @aismail5
+ - @aismail5
+s- @aismail5
+i- @aismail5
+t- @aismail5
+e- @aismail5
+s- @aismail5
+.- @aismail5
+
+- @aismail5
